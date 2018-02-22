@@ -1,0 +1,3 @@
+[submodule "billing/billing-server"]
+	path = billing/billing-server
+	url = ssh://git@phabricator.dev.clover.com/source/billing-server.git

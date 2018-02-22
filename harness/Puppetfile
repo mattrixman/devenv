@@ -1,0 +1,5 @@
+mod 'puppetlabs-java', :latest
+mod 'puppet-virtualbox', :latest
+mod 'unibet-vagrant', :latest
+mod 'gini-archive', :latest
+mod 'gini-gradle', :latest
